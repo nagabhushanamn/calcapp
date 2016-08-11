@@ -31,7 +31,7 @@ public class Calc {
 	
 	
 	public double mod(double a, double b) {
-		double result = a % b
+		double result = a % b;
 		return result;
 	}
 	
