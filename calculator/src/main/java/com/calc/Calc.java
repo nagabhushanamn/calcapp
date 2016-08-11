@@ -2,6 +2,13 @@ package com.calc;
 
 public class Calc {
 
+	/**
+	 *  add method
+	 * @param a
+	 * @param b
+	 * @return
+	 */
+	
 	public double add(double a, double b) {
 		double result = a + b;
 		return result;
