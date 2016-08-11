@@ -1,6 +1,7 @@
 package com.calc;
 
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -8,7 +9,7 @@ public class CalcTest {
 
 	Calc calc = null;
 
-	@BeforeClass
+	@Before
 	public void setup() {
 		calc = new Calc();
 	}
