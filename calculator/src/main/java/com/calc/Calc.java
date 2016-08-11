@@ -28,5 +28,12 @@ public class Calc {
 		double result = a / b;
 		return result;
 	}
+	
+	
+	public double mod(double a, double b) {
+		double result = a % b
+		return result;
+	}
+	
 
 }
