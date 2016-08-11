@@ -12,4 +12,10 @@ public class Calc {
 		return result;
 	}
 
+	public double div(double a, double b) {
+		double result = a / b;
+		return result;
+	}
+	
+	
 }
